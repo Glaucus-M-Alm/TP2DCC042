@@ -1,2 +1,2 @@
-# TP2DCC042
-Trabalho Prático 2 de Robótica Móvel 
+João Vitor Tavares de Almeida Trindade, matrícula 2017114124
+Glaucus Miranda de Almeida, matrícula 2021032986
